@@ -1,0 +1,19 @@
+.dragAble {
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: relative;
+  top: 0;
+  left: 0;
+  border: 1px solid #000;
+  cursor: move; }
+
+* {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  padding: 0;
+  margin: 0; }
+
+/*# sourceMappingURL=app.css.map */
